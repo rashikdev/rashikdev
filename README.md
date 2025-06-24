@@ -1,8 +1,9 @@
-# 💫 Hi 👋, I'm Rashik
-**Frontend Developer | MERN Stack Enthusiast**
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-## 👨‍💻 About Me
+<img width="100%" height="180" src="https://i.pinimg.com/736x/54/a3/c2/54a3c2712840cc53cbbdf6d872563a0f.jpg"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200%">
 
+# 💫 Hi 👋, It's Me Rashik
+**Frontend Developer | MERN Stack Enthusiast**
+## 👨‍💻 About Me
 I’m a passionate frontend developer from Bangladesh, building modern web apps using React, TailwindCSS, and Node.js.
 - 🔭 **I’m currently working on:** a MERN stack parcel delivery system
 - 🌱 **I’m currently learning:** GSAP, Framer Motion, and Next.js
