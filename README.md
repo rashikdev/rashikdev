@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate frontend developer from Bangladesh, building modern web apps using React, TailwindCSS, and Node.js.
+I’m a passionate and detail-oriented frontend developer from Bangladesh. focused on building responsive and user-friendly web applications using React.js, TailwindCSS, Node.js and Express.js.
 
-- 🔭 **I’m currently working on:** a MERN stack parcel delivery system
+- 🔭 **I’m currently working on:** a full-featured eCommerce web application using Next.js
 - 🌱 **I’m currently learning:** GSAP, Framer Motion, and Next.js
 - 👯 **I’m looking to collaborate on:** open-source React projects or UI/UX-focused apps
 - 💬 **Ask me about:** React, TailwindCSS, Firebase, or MERN stack development
