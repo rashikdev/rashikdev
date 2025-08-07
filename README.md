@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate and detail-oriented frontend developer focused on building responsive and user-friendly web applications. Over the past few months, I’ve been improving my skills in JavaScript, React.js and TailwindCSS. Currently, I’m building a full-featured eCommerce web application using Next.js, where I’ve implemented features like dynamic routing, server-side rendering (SSR) and client-side state management. The project also includes authentication using NextAuth.js and MongoDB as the database.
+I’m a passionate and detail-oriented frontend developer focused on building responsive and user-friendly web applications. Over the past few months, I’ve been improving my skills in JavaScript, React.js and TailwindCSS. Currently, I’m building a full-featured eCommerce web application using Next.js, where I’ve implemented features like dynamic routing, server-side rendering (SSR) and client-side state management.
 - 🔭 **I’m currently working on:** a full-featured eCommerce web application using Next.js
 - 🌱 **I’m currently learning:** GSAP, Framer Motion, and Next.js
 - 👯 **I’m looking to collaborate on:** open-source React projects or UI/UX-focused apps
