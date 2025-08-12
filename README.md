@@ -18,6 +18,7 @@ I’m a passionate and detail-oriented frontend developer focused on building re
 
 ## 🌐 Connect with Me
 
+![Phone](https://img.shields.io/badge/Phone/WhatsApp:+8801974707143-1E1E1E?style=for-the-badge&logo=whatsapp&logoColor=25D366)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashikdev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-464da.web.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashik.webdev@gmail.com)
